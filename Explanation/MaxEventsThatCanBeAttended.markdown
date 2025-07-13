@@ -1,5 +1,3 @@
-# Maximum Events Attended – Problem and Solution Explanation
-
 ## Problem Statement
 
 Given:

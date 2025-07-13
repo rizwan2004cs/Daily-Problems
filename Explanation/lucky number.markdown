@@ -1,5 +1,3 @@
-# Lucky Number in an Array
-
 ## Problem Statement
 
 Given an array of integers `arr`, a **lucky integer** is defined as an integer whose **value** equals its **frequency** in the array.

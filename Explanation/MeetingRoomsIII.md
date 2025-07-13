@@ -1,7 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-## LeetCode 2402: Meeting Rooms III
-
 ### Problem Overview
 
 You have `n` rooms (numbered `0` to `n-1`) and a list of meetings, each with a unique start time and an end time (half-open interval `[start, end)`).

@@ -1,7 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-## LeetCode 1900: The Earliest and Latest Rounds Where Players Compete
-
 ### Problem Overview
 
 You are given `n` players in a tournament, standing in a row and numbered from 1 to `n`. Each round, the ith player from the front competes against the ith player from the back. If there is an odd number of players, the middle player advances automatically.

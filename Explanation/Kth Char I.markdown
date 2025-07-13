@@ -1,5 +1,3 @@
-# Find the K-th Character in String Game
-
 ## Problem Statement
 
 Given a positive integer `k`, determine the k-th character in a recursively defined string generated as follows:

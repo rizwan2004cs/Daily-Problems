@@ -1,5 +1,3 @@
-# Maximum Value of Events Problem
-
 ## Problem Overview
 Given a list of events, where each event is represented as `[startDay, endDay, value]`, you can attend at most `k` events. You can only attend one event at a time, and you must attend the full duration of each event (end day is inclusive). You cannot attend two events where one starts on the same day another ends. The goal is to maximize the sum of the values of the attended events.
 

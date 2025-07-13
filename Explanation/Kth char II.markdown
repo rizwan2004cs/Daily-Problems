@@ -1,5 +1,3 @@
-# Kth Character II – Problem and Solution Explanation
-
 ## Problem Statement
 
 Given:

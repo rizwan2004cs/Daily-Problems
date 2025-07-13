@@ -1,5 +1,3 @@
-# Finding Pairs With a Certain Sum
-
 ## Problem Statement
 
 Given two integer arrays `nums1` and `nums2`, design a class `FindSumPairs` that supports two operations:
