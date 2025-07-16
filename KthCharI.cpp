@@ -1,4 +1,4 @@
-class Solution {
+class KthCharI {
 public:
     char kthCharacter(int k) {
        int len = 1;

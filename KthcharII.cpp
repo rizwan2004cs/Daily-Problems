@@ -1,4 +1,4 @@
-class Solution {
+class KthcharII {
 public:
     char kthCharacter(long long k, vector<int>& operations) {
         int shifts = 0;

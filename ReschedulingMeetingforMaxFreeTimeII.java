@@ -1,4 +1,4 @@
-class Solution {
+class ReschedulingMeetingforMaxFreeTimeII {
   public int maxFreeTime(int eventTime, int[] startTime, int[] endTime) {
     final int n = startTime.length;
     final int[] gaps = getGaps(eventTime, startTime, endTime);
